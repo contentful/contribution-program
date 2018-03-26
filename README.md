@@ -3,8 +3,6 @@
 <h1 align="center">Content(ful) contribution</h1>
 </p>
 
-# Contribution Program
-
 ...
 
 ## What is the ...?
