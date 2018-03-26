@@ -7,13 +7,21 @@ Become part of the Contentful community by contributing content on **"how to bui
 
 ## What is the Contentful contribution program?
 
-The Contentful contribution program gives you a platform to share your ideas with the Contentful community and the rest of the world. Let it be a blog post or a video tutorial we want to hear from you and help you to create content that helps and inspires others. Our team of professional writers is there to support you to find the best words and Contentful will distribute your piece so that it reaches the right people.
+The Contentful contribution program gives you a platform to share your ideas with the Contentful community and the rest of the world. Let it be a blog post or a video tutorial we want to hear from you and help you to create content that helps and inspires others.
 
-As a thank you we also will send you a 100$ Amazon voucher and custom swag that proves that you are a writing author of the Contentful community.
+Our team of professional writers is there to support you to find the best words and Contentful will distribute your piece so that it reaches the right people.
+
+As a thank you we also will send you **a 100$ Amazon voucher** and custom swag (socks anyone?) that proves that you are a writing community author.
 
 ## "I Don't know what to write about!"
 
 Finding the right topic is hard – we know that. Wether you would like to write for the Contentful blog but are not sure yet or you are looking for some inspiration check out the Issues in this repository for a variety of topics we would like to see blog posts about. They are labeled by the respective technologies that are being used to allow you easy filtering and searching.
+
+We believe that these three core areas are the new way to build things for the web and would love to hear what you think of them:
+
+- Static sites
+- Serverless
+- Structured content (GraphQL)
 
 If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
 
