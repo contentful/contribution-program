@@ -3,11 +3,11 @@
 <h1 align="center">Content(ful) contribution</h1>
 </p>
 
-Become part of the Contentful community by contributing content on how to build better websites
+Become part of the Contentful community by contributing content on **"how to build better websites"**
 
 ## What is the Contentful contribution program?
 
-The Contentful contribution program gives you a platform to share your ideas with the Contentful community and the rest of the world. Let it be a blog post or a video tutorial we want to hear from you and help you to create content that helps and inspires others. Our team of professional writers is there to support you to find the words and Contentful will distribute your piece so that it reaches the right people.
+The Contentful contribution program gives you a platform to share your ideas with the Contentful community and the rest of the world. Let it be a blog post or a video tutorial we want to hear from you and help you to create content that helps and inspires others. Our team of professional writers is there to support you to find the best words and Contentful will distribute your piece so that it reaches the right people.
 
 As a thank you we also will send you a 100$ Amazon voucher and custom swag that proves that you are a writing author of the Contentful community.
 
