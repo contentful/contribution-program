@@ -3,20 +3,26 @@
 <h1 align="center">Content(ful) contribution</h1>
 </p>
 
-...
+Become part of the Contentful community by contributing content on how to build better websites
 
-## What is the ...?
+## What is the Contentful contribution program?
 
-...
+The Contentful contribution program gives you a platform to share your ideas with the Contentful community and the rest of the world. Let it be a blog post or a video tutorial we want to hear from you and help you to create content that helps and inspires others. Our team of professional writers is there to support you to find the words and Contentful will distribute your piece so that it reaches the right people.
 
-## Don't know what to write about?
+As a thank you we also will send you a 100$ Amazon voucher and custom swag that proves that you are a writing author of the Contentful community.
 
-...
+## "I Don't know what to write about!"
+
+Finding the right topic is hard – we know that. Wether you would like to write for the Contentful blog but are not sure yet or you are looking for some inspiration check out the Issues in this repository for a variety of topics we would like to see blog posts about. They are labeled by the respective technologies that are being used to allow you easy filtering and searching.
+
+If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
 
 ## How do I get started?
 
-...
+You got an idea what you want to write about and you are totally stoked to get started? Open a new issue or comment on an existing one and someone from our developer relations team will reach out to you.
+
+Once you started writing, we'll make sure your topic is marked as "in progress" so that to avoid duplicated work.
 
 ## Got other questions?
 
-...
+Head over to the [contribution program page](https://www.contentful.com/community/contribution/) to read more about the program or join the [Community Slack](https://www.contentful.com/slack/) to talk to fellow developers.
