@@ -20,7 +20,7 @@ Finding the right topic is hard – we know that. Wether you would like to write
 We believe that these three core areas are the new way to build things for the web and would love to hear what you think of them:
 
 - Static sites
-- Serverless
+- Serverless technologies
 - Structured content (GraphQL)
 
 If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
