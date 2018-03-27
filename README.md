@@ -15,7 +15,7 @@ As a thank you we also will send you **a 100$ Amazon voucher** and custom swag (
 
 ## What does "building better websites" mean?
 
-We believe that the future of the web is based on core technologies and we want to publish content covering the following topics:
+We believe that the future of the web is based on core technologies and **we want to publish content covering the following topics**:
 
 - Static sites
 - Serverless technologies
