@@ -29,9 +29,9 @@ If you have any questions about a certain topic or any suggestions, you are welc
 
 ## How do I get started?
 
-You got an idea what you want to write about and you are totally stoked to get started? Open a new issue or comment on an existing one and someone from our developer relations team will reach out to you. If your topic is selected we move your story to [the project board](https://github.com/contentful/contribution-program/projects/1) and help you with everything you need.
+You got an idea what you want to write about and you are totally stoked to get started? Open a new issue or comment on an existing one and someone from **our developer relations team will reach out to you to discuss if your topic is a good fit**. If your topic is selected we move your story to [the project board](https://github.com/contentful/contribution-program/projects/1) and we will help you with everything you need.
 
-Once you started writing, we'll make sure your topic is marked as "in progress" so that to avoid duplicated work.
+Once you started writing, we'll make sure your topic is marked as `in progress` so that to avoid duplicated work.
 
 ## Got other questions?
 
