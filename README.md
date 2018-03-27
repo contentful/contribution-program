@@ -21,6 +21,8 @@ We believe that the future of the web is based on core technologies and **we wan
 - Serverless technologies
 - Structured content (GraphQL)
 
+**Contentful related how-to's and tutorials are also more than welcome!**
+
 If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
 
 ## "I Don't know what to write about!"
