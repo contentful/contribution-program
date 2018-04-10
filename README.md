@@ -25,7 +25,7 @@ We believe that the future of the web is based on core technologies and **we wan
 
 If you have any questions about a certain topic or any suggestions, you are welcome to add a comment to the respective issue.
 
-## "I Don't know what to write about!"
+## "I don't know what to write about!"
 
 Finding the right topic is hard – we know that. If you'd like to write for the Contentful blog but aren't quite sure about what to write about and need some inspiration, check out [the type of topics we would like to see blog posts about](https://github.com/contentful/contribution-program/issues) in this repository. They are labeled by their respective technologies for easy filtering and searching.
 
