@@ -35,6 +35,10 @@ You got an idea what you want to write about and you are totally stoked to get s
 
 Once you started writing, we'll make sure your topic is marked as `in progress` so that to avoid duplicated work.
 
+### Create an outline to stay focused
+
+When your article moves to `in progress` we'd like you to write an outline first. Writing an article can sometimes be trickier than first thought. That's why we think [a structured outline](./OUTLINE.md) will help you to find the best possible narrative and stay focused in your writing.
+
 ## Got other questions?
 
 Join the [Community Slack](https://www.contentful.com/slack/) to talk to fellow developers and the developer relations team in person.
