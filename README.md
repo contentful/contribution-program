@@ -39,6 +39,19 @@ Once you started writing, we'll make sure your topic is marked as `in progress` 
 
 Once your article is moved to `in progress`, we'd like you to first write an outline. Writing an article can sometimes be trickier than you think. That's why we think [a structured outline](./OUTLINE.md) will help you find the best possible narrative and stay focused in your writing.
 
+### Labels define process and state
+
+| Label name    | Issues        | Description                          |
+| ------------- |:-------------:| ------------------------------------:|
+| Author found  | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Author+found%22) | We found an author to write about it |
+| Author wanted | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Authors+wanted%22) | We're looking for an author |
+| Status: declined | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+sort%3Aupdated-desc+label%3A%22Status%3A+declined%22+is%3Aclosed) | A topic that was already covered or is out of scope |
+| Status: in progress | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Status%3A+in+progress%22) | An article that is in progress |
+| Topic: graphql | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Topic%3A+graphql%22) | An article covering GraphQL |
+| Topic: serverless | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Topic%3A+serverless%22) | An article covering serverless |
+| Topic: static sites | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Topic%3A+static+sites%22) | An article covering static sites |
+| Topic: contentful | [🔍](https://github.com/contentful/contribution-program/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Topic%3A+Contentful%22) | An article covering Contentful |
+
 ## Got more questions?
 
 Join the [Community Slack](https://www.contentful.com/slack/) to chat with fellow developers and the developer relations team.
