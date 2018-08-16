@@ -11,7 +11,7 @@ The Contentful contribution program gives you a platform to share your ideas wit
 
 Our team of professional writers is there to support you in finding the best words and Contentful will distribute your piece so that it reaches the right people.
 
-As a thank you, we will send you **a $100 Amazon voucher** and custom swag (socks, anyone?) and list you on [contentful.com](https://www.contentful.com) to make you a real Contentful community author.
+As a thank you, we will send you **a $250 Amazon voucher** and custom swag (socks, anyone?) and list you on [contentful.com](https://www.contentful.com) to make you a real Contentful community author.
 
 ## What does "building better websites" mean?
 
